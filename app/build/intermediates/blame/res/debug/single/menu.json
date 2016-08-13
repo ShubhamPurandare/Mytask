@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/AndroidStudioProjects/Project/app/build/intermediates/res/merged/debug/menu/menu_scrolling.xml",
+        "source": "/root/AndroidStudioProjects/Project/app/src/main/res/menu/menu_scrolling.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/Project/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/root/AndroidStudioProjects/Project/app/src/main/res/menu/menu_main.xml"
+    }
+]
